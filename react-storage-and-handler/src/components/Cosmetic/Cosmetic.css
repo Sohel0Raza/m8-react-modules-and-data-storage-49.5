@@ -1,0 +1,22 @@
+.product{
+    border: 2px solid lightseagreen;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.btn-cart{
+    margin: 10px;
+    background-color:tomato ;
+    border: none;
+    border-radius: 10px;
+    padding: 7px 15px;
+    color: white;
+}
+.btn-cart-remove{
+    margin: 10px;
+    background-color:rgb(39, 111, 142) ;
+    border: none;
+    border-radius: 10px;
+    padding: 7px 15px;
+    color: white;
+}
